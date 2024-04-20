@@ -1,4 +1,7 @@
-### Introducing Myself 👋
+### 🙋🏻‍♀Introducing Myself 
+
+![lapy (2)](https://github.com/snehapaherwar/snehapaherwar/assets/141404143/ef30abd1-bb86-4461-8775-fd1e12a4ec64)
+
 
 <!--
 **snehapaherwar/snehapaherwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
