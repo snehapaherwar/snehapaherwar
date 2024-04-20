@@ -1,6 +1,7 @@
 ### 🙋🏻‍♀Introducing Myself 
 
-![lapy (2)](https://github.com/snehapaherwar/snehapaherwar/assets/141404143/ef30abd1-bb86-4461-8775-fd1e12a4ec64)
+![linkedin cover](https://github.com/snehapaherwar/snehapaherwar/assets/141404143/9118db8f-feff-488c-9c20-7cf8d4ae06a9)
+
 
 
 <!--
