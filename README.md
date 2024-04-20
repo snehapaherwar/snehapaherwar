@@ -10,3 +10,5 @@ Hello, I'm Sneha. Data Analyst with expertise in data analysis and reporting, qu
 - Data analysis and reporting using Google Sheets and Excel.
 * Solving complex datasets using Python libraries like Pandas, NumPy and Matplotlib.
 
+required "Pinned"
+Welcome to my portfolio, where I showcase my Projects.
