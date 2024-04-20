@@ -10,16 +10,16 @@ Hello, I'm Sneha. Data Analyst with expertise in data analysis and reporting, qu
 + Data analysis and reporting using Google Sheets and Excel.
 + Solving complex datasets using Python libraries like Pandas, NumPy and Matplotlib.
 
-## 📚Projects
+### 📚Projects
 
 Welcome to my portfolio, where I showcase my Projects.
 
-## 🛠️Tools
+### 🛠️Tools
 + Language: SQL, Python
 + Database: SQLite, PostgreSQL, MySQL
 + Visualization: Power BI
 
-## 👋🏻Connect with me
+### 👋🏻Connect with me
 + [LinkedIn](https://www.linkedin.com/in/sneha-paherwar-5304b6194/)
 + Hire me on [Upwork](https://www.upwork.com/freelancers/~018335803fe2d4814f)
 
