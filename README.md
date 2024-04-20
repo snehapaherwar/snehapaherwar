@@ -1,6 +1,7 @@
 ### 🙋🏻‍♀Introducing Myself 
 
-![lapy3](https://github.com/snehapaherwar/snehapaherwar/assets/141404143/7c0ab8de-219d-4264-b58d-d06f3726c0fd)
+![Sneha Paherwar](https://github.com/snehapaherwar/snehapaherwar/assets/141404143/63217c15-c498-401e-9b1d-f6f6ef496601)
+
 
 
 
