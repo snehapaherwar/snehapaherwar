@@ -1,4 +1,4 @@
-### 🙋🏻‍♀Introducing Myself 
+## 🙋🏻‍♀Introducing Myself 
 
 ![Sneha Paherwar](https://github.com/snehapaherwar/snehapaherwar/assets/141404143/63217c15-c498-401e-9b1d-f6f6ef496601)
 
@@ -19,7 +19,7 @@ Welcome to my portfolio, where I showcase my Projects.
 + Database: SQLite, PostgreSQL, MySQL
 + Visualization: Power BI
 
-**Connect with me**
+**👋🏻Connect with me**
 + [LinkedIn](https://www.linkedin.com/in/sneha-paherwar-5304b6194/)
 + Hire me on [Upwork](https://www.upwork.com/freelancers/~018335803fe2d4814f)
 
